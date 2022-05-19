@@ -1,3 +1,6 @@
+/* import shared library */
+@Library('shared-library')_
+
 pipeline {
      environment {
        ID_DOCKER = "jonastrochet369"
